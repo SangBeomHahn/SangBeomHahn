@@ -16,7 +16,7 @@
 -->
 
 ## ▎Current Interest
-- Large language model
+- Large Language Model
 - Natural Language Processing
 - Generative Adversarial Network
 
