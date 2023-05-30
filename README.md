@@ -15,6 +15,7 @@
 - Engineering : <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Dockert&logoColor=white"/></span>
 -->
 
+<!--
 ## ▎Current Interest
 - Large Language Model
 - Natural Language Processing
@@ -44,6 +45,7 @@
 - <a href="https://hsb422.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:hsb990917@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsb990917@gmail.com"/></a>
 
+-->
 
 <!--
 <a href="https://instagram.com/nayeongold"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -51,5 +53,7 @@
 ## ▎🧑‍💻 Portfolio Notion
 - ### https://fine-quotation-3da.notion.site/e3d1966d2a604fc4b2536885a73f8bae
 -->
+
+
 
 
